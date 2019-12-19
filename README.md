@@ -1,3 +1,4 @@
+clear
 # Nested Arrays Lab
 
 ## Learning Goals
